@@ -12,9 +12,7 @@ tags: ["words"]
    > to assign as a share or portion
 3. ad-hoc
    > An ad hoc activity or organization is done or formed only because a situation has made it necessary and is `not planned in advance`.Ad hoc is a word that originally comes from Latin and means `“for this” or "for this situation."` In current American English it is used to describe something that has been formed or used for a special and immediate purpose, without previous planning.
-
-     比如 shell 可以直接执行一次性的命令，这就是 ad-hoc，也可以提前写好 bash 脚本可以反复多次执行，这就是提前计划好的。
-Ad hoc can be used as an adjective or an adverb. 
+  比如 shell 可以直接执行一次性的命令，这就是 ad-hoc，也可以提前写好 bash 脚本可以反复多次执行，这就是提前计划好的。Ad hoc can be used as an adjective or an adverb. 
 4. at the discretion of
    > 由 ... 决定，由 ... 自行处理。自由裁量权。哈哈哈。比如 object 怎样回收由 gc 具体实现决定。向线程池 submit 的 command 怎么执行, 由具体的 executor 实现来决定。
 5. ASAP
