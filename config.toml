@@ -228,7 +228,6 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
  page = ["HTML", "MarkDown"]
  section = ["HTML", "RSS"]
  taxonomy = ["HTML", "RSS"]
- taxonomyTerm = ["HTML"]
 
 [permalinks]
   post = '/:year/:month/:day/:title/'
