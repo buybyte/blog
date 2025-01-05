@@ -64,7 +64,7 @@ tags: ["ipc"]
 
 ### 3. system call
 
-[kill syscall](https://man7.org/linux/man-pages/man2/kill.2.html)
+1. [kill syscall](https://man7.org/linux/man-pages/man2/kill.2.html)
 
 
 ## 进程收到信号会怎么处理？
