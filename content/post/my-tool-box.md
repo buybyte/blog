@@ -1,7 +1,7 @@
 ---
 title: "My Tool Box"
 date: 2024-04-19T17:31:31+08:00
-draft: true
+draft: false
 ---
 
 
@@ -54,6 +54,7 @@ draft: true
 
 1. [cron-expression](https://cron.help/)
 2. [crontab](https://crontab.guru/)
+3. [explainshell](https://explainshell.com/)
 
 # 隐私
 
