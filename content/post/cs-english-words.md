@@ -93,6 +93,8 @@ tags: ["words"]
    > A field is `an area of a computer's memory or a program` where data can be entered, edited, or stored.
 4. factor out
    > 分解
+5. fragemented
+   > If something fragments or is fragmented, it `breaks` or `separates` into small `pieces` or `parts`. 碎片化
 
 ## g
 1. gateway
