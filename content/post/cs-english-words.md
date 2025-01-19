@@ -184,8 +184,10 @@ tags: ["words"]
     > If something is permissible, it is considered to be acceptable because it does not break any laws or rules. 不违反法律和规则即为允许的
 14. proxy
     > a proxy emulates a service provided by a server that is `not contacted directly` by the client itself
-15. Respectively
+15. respectively
     > Respectively means in the `same order` as the items that you have `just mentioned`. 和刚刚提到过的保持一致的顺序。相应地
+16. premise
+    > a premise is something that `you suppose is true` and that you use as a basis for developing an idea. 前提
 
 ## q
 
