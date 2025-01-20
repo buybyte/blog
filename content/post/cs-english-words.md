@@ -68,6 +68,8 @@ tags: ["words"]
    > 代表更大集团的一个和其他人交流的小集团
 5. defer
    > If you defer an event or action, you arrange for it to happen `at a later date`, rather than immediately or at the previously planned time. 延迟到将来发生的事情
+6. dedicated
+   > You use dedicated to describe something that is `made`, `built`, or `designed` for one `particular purpose or thing`. 专用
 
 ## e
 
