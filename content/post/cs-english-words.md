@@ -188,6 +188,8 @@ tags: ["words"]
     > Respectively means in the `same order` as the items that you have `just mentioned`. 和刚刚提到过的保持一致的顺序。相应地
 16. premise
     > a premise is something that `you suppose is true` and that you use as a basis for developing an idea. 前提
+17. privileged
+    > Someone who is privileged has an `advantage or opportunity` that most other people do not have, often because of their wealth or high social class. 特权
 
 ## q
 
