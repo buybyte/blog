@@ -28,6 +28,8 @@ tags: ["words"]
     > An agent acts on your behalf,
 10. abundant
     > Something that is abundant is present in `large quantities`. 大量的
+11. approximation
+    > An approximation is a fact, object, or description which is `similar to` something else, but which is `not exactly` the same. 近似
    
 
 ## b
