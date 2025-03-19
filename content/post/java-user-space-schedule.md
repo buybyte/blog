@@ -32,7 +32,7 @@ public class Task {
 
 ## 自定义的调度
 
-```java
+```java{ hl_lines=["16-19"] style=emacs }
 import java.util.LinkedList;
 import java.util.Queue;
 
