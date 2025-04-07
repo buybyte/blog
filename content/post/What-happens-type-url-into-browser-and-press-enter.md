@@ -29,9 +29,11 @@ firefox(about:networking#dns)
 
 ## arp 获取 gateway 的 mac 地址
 
+## 向 gateway 发送 ip packet
+
 ## References
 
 1. [keyborad-interrput](http://www.science.smith.edu/~nhowe/262/oldlabs/keyboard.html)
-2. [Chrome 是怎么判断地址栏输入的东西是不是网址? -omnibox](https://www.zhihu.com/question/560616439/answer/2722866208)
+2. [Chrome 是怎么判断地址栏输入的东西是不是网址? 这就是第一步😂-omnibox](https://www.zhihu.com/question/560616439/answer/2722866208)
 3. [firefox dns](about:networking#dns) 
 4. [ARP](https://www.fortinet.com/resources/cyberglossary/what-is-arp)
