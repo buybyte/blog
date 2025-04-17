@@ -297,6 +297,8 @@ tags: ["words"]
 ## u
 
 ## v
+1. virtualize
+   > To virtualize means to take something of `one form` and make it appear to be `another form`. 这不就是 transformer 🤣
 
 ## w
 
